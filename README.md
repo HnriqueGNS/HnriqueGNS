@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🚀 Languages and Tools
 
-<!--
-**HnriqueGNS/HnriqueGNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+![Languages](https://skillicons.dev/icons?i=cs,ts,java)
 
-Here are some ideas to get you started:
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react)
+
+### DevOps & CI/CD
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,git)
