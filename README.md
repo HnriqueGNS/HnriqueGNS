@@ -1,10 +1,10 @@
 # 🚀 Languages and Tools
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=cs,dotnet,ts,java)
+![Languages](https://skillicons.dev/icons?i=cs,js,ts,java)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,spring)
+![Backend](https://skillicons.dev/icons?i=nodejs,spring,dotnet)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react)
