@@ -14,3 +14,6 @@
 
 ### DevOps & CI/CD
 ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,git)
+
+### Operating Systems
+![Linux](https://skillicons.dev/icons?i=linux)
