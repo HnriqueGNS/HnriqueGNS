@@ -4,7 +4,7 @@
 ![Languages](https://skillicons.dev/icons?i=cs,dotnet,ts,java)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs)
+![Backend](https://skillicons.dev/icons?i=nodejs,spring)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react)
@@ -16,4 +16,4 @@
 ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,git)
 
 ### Operating Systems
-![Linux](https://skillicons.dev/icons?i=linux)
+![Linux](https://skillicons.dev/icons?i=linux,ubuntu,redhat)
